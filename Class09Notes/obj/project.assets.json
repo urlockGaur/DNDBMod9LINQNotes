@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aframke\\source\\repos\\Class09\\Class09Notes\\Class09Notes.csproj",
+      "projectUniqueName": "C:\\Users\\aframke\\Source\\Repos\\DNDBMod9LINQNotes\\Class09Notes\\Class09Notes.csproj",
       "projectName": "Class09Notes",
-      "projectPath": "C:\\Users\\aframke\\source\\repos\\Class09\\Class09Notes\\Class09Notes.csproj",
+      "projectPath": "C:\\Users\\aframke\\Source\\Repos\\DNDBMod9LINQNotes\\Class09Notes\\Class09Notes.csproj",
       "packagesPath": "C:\\Users\\aframke\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aframke\\source\\repos\\Class09\\Class09Notes\\obj\\",
+      "outputPath": "C:\\Users\\aframke\\Source\\Repos\\DNDBMod9LINQNotes\\Class09Notes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aframke\\AppData\\Roaming\\NuGet\\NuGet.Config",
